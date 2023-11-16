@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "smallangle"
 version = "0.1.0"
-description = ""
+description = "Calculates the sine and tangent for a given number of values between 0 and 2pi."
 authors = ["AnneliesVlaar <66774020+AnneliesVlaar@users.noreply.github.com>, IsabellaSchoehuijs <isabellaschoehuijs@gmail.com>"]
 
 [tool.poetry.dependencies]
