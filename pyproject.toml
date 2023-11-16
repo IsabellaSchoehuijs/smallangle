@@ -2,7 +2,7 @@
 name = "smallangle"
 version = "0.1.0"
 description = ""
-authors = ["AnneliesVlaar <66774020+AnneliesVlaar@users.noreply.github.com>"]
+authors = ["AnneliesVlaar <66774020+AnneliesVlaar@users.noreply.github.com>, IsabellaSchoehuijs <isabellaschoehuijs@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
