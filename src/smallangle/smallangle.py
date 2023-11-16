@@ -8,14 +8,13 @@ import pandas as pd
 def cmd_group():
     pass
 
-
 @cmd_group.command()
 @click.option(
     "-n",
     "--number",
     default=5,
     help="Number of values between 0 and 2pi",
-    show_default=True,  # show default in help
+    show_default=True, 
 )
 def sin(number):
     """Calculates the sine for a given number of values between 0 and 2pi.
@@ -34,7 +33,7 @@ def sin(number):
     "--number",
     default=5,
     help="Number of values between 0 and 2pi",
-    show_default=True,  # show default in help
+    show_default=True,  
 )
 def tan(number):
     """Calculates the tangent for a given number of values between 0 and 2pi.
